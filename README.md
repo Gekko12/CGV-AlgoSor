@@ -6,11 +6,11 @@
 * We have used “Bubble Sorting algorithm” and “Insertion Sorting algorithm”
 
 ## OpenGL installation in Ubuntu
-$ sudo apt update
-$ sudo apt-get install cmake pkg-config
-$ sudo apt-get install mesa-utils libglu1-mesa-dev freeglut3-dev mesa-common-dev
-$ sudo apt-get install libglew-dev libglfw3-dev libglm-dev
-$ sudo apt-get install libao-dev libmpg123-dev
+$ sudo apt update \n
+$ sudo apt-get install cmake pkg-config \n
+$ sudo apt-get install mesa-utils libglu1-mesa-dev freeglut3-dev mesa-common-dev \n
+$ sudo apt-get install libglew-dev libglfw3-dev libglm-dev \n
+$ sudo apt-get install libao-dev libmpg123-dev \n
 $ sudo apt install freeglut3-dev
 $ sudo apt install mesa-utils
 
