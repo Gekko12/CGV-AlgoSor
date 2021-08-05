@@ -3,7 +3,7 @@
 
 ## Description
 * The Project is aimed at “Demonstration of Sorting Algorithm”.
-* We have used “Bubble Sorting algorithm” and “Insertion Sorting algorithm”
+* We have used “Bubble Sort algorithm” and “Insertion Sort algorithm”
 
 ## OpenGL installation in Ubuntu
 * $ sudo apt update
