@@ -7,8 +7,6 @@
 ## Usage
 1. Comile :=>   
   g++ -o runner algosor.cpp -lGL -lGLU -lglut
-2. Run :=> 
+2. Run :=>      
   ./runner
-
-
-
+  
